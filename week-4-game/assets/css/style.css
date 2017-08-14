@@ -1,0 +1,73 @@
+body {
+	background-image: url(http://wallpapercave.com/wp/VQuLqUB.jpg);
+}
+
+h1{
+	background-color: 	#244878;
+	color: white;
+	display: inline;
+	clear: both;
+	padding: 5px;
+	margin-bottom: 15px;
+	border: solid 2px black;
+}
+
+#wrapper {
+	width: 100%
+	max-width: 960px;
+	margin: 0 auto;
+}
+#instructions {
+	background-color: #a7b9cf;
+	width: 50%;
+	clear: both;
+	padding: 15px;
+	margin-top: 15px;
+	border: solid 2px black;
+}
+#numberGuess {
+	background-color: #32638d;
+	float: left;
+	display: inline-block;
+	padding: 10px;
+	margin-top: 15px;
+	border: solid 2px black;
+}
+#scorecard {
+	background-color: white;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border: solid 2px black;
+}
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
+#black{
+	color: black;
+}
+#blue{
+	color: blue;
+}
+#gray{
+	color: gray;
+}
+#white{
+	color: white;
+}
+#totalScore {
+	margin-top: 35px;
+	margin-bottom: 55px;
+}
+#yourTotalScore {
+	margin-top: 60px;
+	background: #32638d;
+	display: inline;
+	padding: 20px;
+	border: solid 2px black;
+}
